@@ -1,0 +1,336 @@
+Transaction Date:2025-02-19
+Transaction Time:13:36:49.069538100
+Transaction Account Type:Saving Account
+Transaction Type:Deposited 20000rs
+Current Balance:30000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:36:49.069538100
+Transaction Account Type:Saving Account
+Transaction Type:Withdrawn 20000rs
+Current Balance:10000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:36:49.069538100
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:30000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:36:49.096906400
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 30001rs
+Current Balance:-1.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:36:49.096906400
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:19999.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:36:49.101484200
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 100rs
+Current Balance:19899.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:44:15.810978800
+Transaction Account Type:Saving Account
+Transaction Type:Deposited 20000rs
+Current Balance:120000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:44:15.822876100
+Transaction Account Type:Saving Account
+Transaction Type:Withdrawn 20000rs
+Current Balance:100000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:44:15.826025100
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:120000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:44:15.826025100
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 30001rs
+Current Balance:89999.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:44:15.826025100
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 20001rs
+Current Balance:69998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:44:15.826025100
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:89998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:44:15.826025100
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 100rs
+Current Balance:89898.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:45:06.779295800
+Transaction Account Type:Saving Account
+Transaction Type:Deposited 20000rs
+Current Balance:1220000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:45:06.797153700
+Transaction Account Type:Saving Account
+Transaction Type:Withdrawn 20000rs
+Current Balance:1200000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:45:06.797153700
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1220000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:45:06.797153700
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 30001rs
+Current Balance:1189999.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:45:06.797153700
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 20001rs
+Current Balance:1169998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:45:06.797153700
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1189998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:45:06.797153700
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 100rs
+Current Balance:1189898.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:52:51.232758
+Transaction Account Type:Saving Account
+Transaction Type:Deposited 20000rs
+Current Balance:1220000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:52:51.250635800
+Transaction Account Type:Saving Account
+Transaction Type:Withdrawn 20000rs
+Current Balance:1200000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:52:51.252642400
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1320000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:52:51.252642400
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 30001rs
+Current Balance:1289999.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:52:51.252642400
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 20001rs
+Current Balance:1269998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:52:51.252642400
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1289998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:52:51.252642400
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 100rs
+Current Balance:1289898.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:56:03.006894200
+Transaction Account Type:Saving Account
+Transaction Type:Deposited 20000rs
+Current Balance:1220000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:56:03.024788700
+Transaction Account Type:Saving Account
+Transaction Type:Withdrawn 20000rs
+Current Balance:1200000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:56:03.026799200
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1320000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:56:03.028810500
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 30001rs
+Current Balance:1289999.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:56:03.028810500
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 20001rs
+Current Balance:1269998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:56:03.028810500
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1289998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:13:56:03.030819500
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 100rs
+Current Balance:1289898.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:01:45.764700400
+Transaction Account Type:Saving Account
+Transaction Type:Deposited 20000rs
+Current Balance:1220000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:01:45.772484400
+Transaction Account Type:Saving Account
+Transaction Type:Withdrawn 20000rs
+Current Balance:1200000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:01:45.772484400
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1320000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:01:45.772484400
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 30001rs
+Current Balance:1289999.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:01:45.772484400
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 20001rs
+Current Balance:1269998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:01:45.772484400
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1289998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:01:45.777741300
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 100rs
+Current Balance:1289898.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:02:17.496157900
+Transaction Account Type:Saving Account
+Transaction Type:Deposited 20000rs
+Current Balance:1220001.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:02:17.501161700
+Transaction Account Type:Saving Account
+Transaction Type:Withdrawn 20000rs
+Current Balance:1200001.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:02:17.501161700
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1320000.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:02:17.514067500
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 30001rs
+Current Balance:1289999.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:02:17.514067500
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 20001rs
+Current Balance:1269998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:02:17.514067500
+Transaction Account Type:Current Account
+Transaction Type:Deposited 20000rs
+Current Balance:1289998.0
+
+
+Transaction Date:2025-02-19
+Transaction Time:14:02:17.514067500
+Transaction Account Type:Current Account
+Transaction Type:Withdrawn 100rs
+Current Balance:1289898.0
+
+
